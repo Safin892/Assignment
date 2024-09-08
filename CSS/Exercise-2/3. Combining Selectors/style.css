@@ -1,0 +1,13 @@
+/* Write your code here: */
+h1,h2,#one{
+    color: blue;
+}
+.one{
+    color: red;
+}
+#two{
+    color:green;
+}
+ul p.two{
+    font-size: 0.5rem;
+}
