@@ -5,41 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9e078ec-23d9-4600-86f3-a21406f80839" name="Changes" comment="Commit">
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/.idea/Assignment - 1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/1. List Elements/Goal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/1. List Elements/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/2. Nesting and Indentation/goal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/2. Nesting and Indentation/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/3. Anchor Elements/goal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/3. Anchor Elements/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/4. Image Elements/goal1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/4. Image Elements/goal2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/4. Image Elements/index1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/4. Image Elements/index2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/5. Birthday Invite/goal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 1/5. Birthday Invite/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/File Paths/Folder0/Folder3/cat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/File Paths/Folder0/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/File Paths/Folder0/rabbit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/File Paths/Folder0/solution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/File Paths/Folder1/Folder2/bird.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/File Paths/Folder1/fish.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/File Paths/dog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/HTML Portfolio Project/image/birthday-invite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/HTML Portfolio Project/image/movie-ranking.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/HTML Portfolio Project/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/HTML Portfolio Project/public/about_me.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/HTML Portfolio Project/public/birthday.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/HTML Portfolio Project/public/contact_me.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/HTML Portfolio Project/public/movie.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/webpages/cat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/webpages/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/webpages/public/about_me.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment - 2/webpages/public/contact_me.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,8 +75,43 @@
       <option name="project" value="LOCAL" />
       <updated>1725286478841</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1725289170642</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725289170642</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1725289314380</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725289314380</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1725289454033</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725289454033</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2nd" />
